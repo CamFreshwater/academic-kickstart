@@ -20,10 +20,10 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
+  "Life History Strategies",
   "Fisheries Management",
   "Population Ecology",
-  "Pacific Salmon",
-  "Life History Strategies"
+  "Pacific Salmon"
 ]
 
 # List qualifications (such as academic degrees)
@@ -64,17 +64,13 @@ interests = [
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
+[[social]]
+  icon = "cv"
+  icon_pack = "ai"
+  link = "files/cv.pdf"
 
 +++
 
-I'm a biologist with Fisheries and Oceans Canada at the Pacific Biological Station in 
-Nanaimo, British Columbia. My current work uses to stochastic closed-loop simulation models
-to develop rebuilding strategies for depleted Pacific salmon populations. I am particularly
-interested in interactions between large scale environmental drivers, life history 
-diversity and fisheries productivity. I believe that effective fisheries management 
-depends on pairing detailed knowledge of natural history with robust quantitative 
-techniques.
+I'm an biologist with Fisheries and Oceans Canada at the Pacific Biological Station in Nanaimo, British Columbia. I am currently working with Dr. Jackie King's Coastal and Oceanic Ecosystems program to research the spatial and temporal distribution of Chinook salmon in Southern Resident Killer Whale critical habitat. Prior to this, I was a postdoc under Dr. Carrie Holt in the Quantitative Assessment Methods Section where I designed stochastic, closed-loop simulation models to develop rebuilding strategies for depleted Pacific salmon populations.
+
+I use a mix of quantitative and field-based methods to answer management-driven ecological questions. I am particularly interested in interactions between large scale environmental drivers, life history diversity, and fisheries productivity. I believe that effective fisheries management depends on pairing knowledge of natural history with robust quantitative techniques.
