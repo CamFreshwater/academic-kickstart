@@ -1,0 +1,13 @@
++++
+title = "Individual variation, population-specific behaviours and stochastic processes shape marine migration phenologies"
+date = 2019-01-01
+authors = ["C. Freshwater", "M. Trudel", "T. D. Beacham", "S. Gauthier", "S. C. Johnson", "C. E. Neville", "F. Juanes"]
+publication_types = ["2"]
+abstract = "The phenology of long-distance migrations can influence individual fitness, moderate population dynamics and regulate the availability of ecosystem services to other trophic levels. Phenology varies within and among populations, and can be influenced by conditions individuals experience both prior to departure and encounter en route. Assessing how intrinsic and extrinsic factors (e.g., individual physical condition vs. environmental conditions) interact to influence variation in migratory phenologies across ecological scales is often limited due to logistical constraints associated with tracking large numbers of individuals from multiple populations simultaneously. We used two natural tags, DNA and otolith microstructure analysis, to estimate the relative influence of individual traits (life-history strategy, body size at departure and growth during migration), population-specific behaviours and interannual variability on the phenology of marine migrations in juvenile sockeye salmon Oncorhynchus nerka. We show that the timing and duration of juvenile sockeye salmon migrations were correlated with both life-history strategy and body size, while migration duration was also correlated with departure timing and growth rates during migration. Even after accounting for the effect of individual traits, several populations exhibited distinct migration phenologies. Finally, we observed substantial interannual and residual variation, suggesting stochastic environmental conditions moderate the influence of carry-over effects that develop prior to departure, as well as population-specific strategies. Migratory phenologies are shaped by complex interactions between drivers acting at multiple ecological and temporal scales. Given evidence that intraspecific diversity can stabilize ecological systems, conservation efforts should seek to maintain migratory variation among populations and preserve locally adapted phenotypes; however, variation within populations, which may buffer systems from environmental stochasticity, should also be regularly assessed and preserved."
+featured = false
+publication = "*Journal of Animal Ecology*"
+tags = ["Pacific salmon body size carry-over effects life history migration otolith phenology"]
+url_pdf = "https://www.ncbi.nlm.nih.gov/pubmed/29790171"
+doi = "10.1111/1365-2656.12852"
++++
+
